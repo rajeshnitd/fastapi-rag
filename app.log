@@ -133,3 +133,42 @@ INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200
 INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 INFO:root:Session ID: 57ee7a4d-1a95-434d-95bf-726b907866c5, AI Response: The provided data does not include specific information about the leave taken by Rupsa Sen. If you can provide a complete table or additional details, I can help identify the leaves taken by Rupsa Sen.
 INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: 85eb08f8-109e-4289-8d4a-7120921e736e, User Query: hr policy?, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 85eb08f8-109e-4289-8d4a-7120921e736e, AI Response: It seems like you're asking about HR (Human Resources) policies. HR policies are guidelines and procedures set by an organization to manage its employees' relations, expectations, and behavior. They cover a wide range of topics including, but not limited to:
+
+1. **Recruitment and Hiring:** Procedures for attracting, interviewing, and onboarding new employees.
+
+2. **Compensation and Benefits:** Policies regarding salary, bonuses, health insurance, retirement plans, and other employee benefits.
+
+3. **Workplace Conduct:** Guidelines on appropriate behavior, dress codes, and interactions at work.
+
+4. **Leave and Attendance:** Rules for taking leave, including sick leave, vacation, maternity/paternity leave, and attendance expectations.
+
+5. **Performance Management:** Processes for evaluating employee performance and providing feedback or appraisals.
+
+6. **Training and Development:** Opportunities and policies related to employee growth, learning, and professional development.
+
+7. **Health and Safety:** Ensuring a safe work environment and promoting employee well-being.
+
+8. **Diversity and Inclusion:** Policies that promote a diverse workforce and equal opportunities for all employees.
+
+9. **Grievance and Disciplinary Procedures:** Steps for addressing and resolving employee complaints and handling disciplinary issues.
+
+10. **Termination and Exit Procedures:** Guidelines for ending the employment relationship, including notice periods and exit interviews.
+
+HR policies are crucial for ensuring a fair, equitable, and consistent approach in managing employees and maintaining a positive organizational culture. If you need more specific information, feel free to ask!
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: 9f64f08d-e247-4fc3-8ec5-3fb9a09b51e0, User Query: leave rules?, Model: gpt-4.1-nano
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 9f64f08d-e247-4fc3-8ec5-3fb9a09b51e0, AI Response: According to SPIL Corporate HR Policies, the key leave rules are as follows:
+
+1. When an employee takes leave on Saturday and Monday, the Sunday within that week will also be considered part of the leave period.
+2. Maternity and Paternity Leave are applicable as per the Maternity Act 1961.
+3. If an employee takes continuous leave after a festival, the festival days will be considered as leave.
+4. The responsibility for completing attendance lies solely with the employee.
+5. Unauthorized absence will be treated as "LOSS OF PAY," based on the company's "NO WORK NO PAY" policy.
+
+For detailed procedures or specific types of leave, employees are advised to refer to the official HR policies or consult with the HR department.

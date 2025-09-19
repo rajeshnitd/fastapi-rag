@@ -4,9 +4,10 @@ from enum import Enum
 from datetime import datetime
 
 class ModelName(str, Enum):
+    GPT4_1_NANO = "gpt-4.1-nano"
     GPT4_O = "gpt-4o"
     GPT4_O_MINI = "gpt-4o-mini"
-    GPT4_1_NANO = "gpt-4.1-nano"
+    
 
 class QueryInput(BaseModel):
     question: str
