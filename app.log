@@ -1,0 +1,135 @@
+INFO:root:Session ID: 1234, User Query: what is my age, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 1234, AI Response: Iï¿½m unable to determine your age without additional information, such as your birthdate. If you provide that, I can help you calculate your age!
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: 1234, User Query: list down Exemptions from disclosure of information, Model: gpt-4.1-nano
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 1234, AI Response: The exemptions from disclosure of information include the following:
+
+1. Information that would prejudicially affect the sovereignty and integrity of India.
+2. Information related to the security, strategic, scientific, or economic interests of the State.
+3. Information that could affect relations with foreign States.
+4. Information that may incite an offense.
+5. Information expressly forbidden to be published by any court of law or tribunal.
+6. Information whose disclosure may constitute contempt of court.
+7. Personal information that has no relation to any public activity or interest or could cause unwarranted invasion of an individual's privacy, unless the public interest justifies disclosure.
+8. Information that falls under other specific exemptions as per the applicable laws and provisions.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: 1234, User Query: list down PROCEDURE FOR GRIEVANCE REDRESSAL CELL, Model: gpt-4.1-nano
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 1234, AI Response: The procedure for the Grievance Redressal Cell is as follows:
+
+1. **Complaint Registered to HR Department:** The employee registers a complaint with the Human Resources Department.
+2. **Identification of Problem/Grievances:** The HR department identifies and understands the nature of the grievance.
+3. **Collection of Facts/Evidences:** The HR department gathers all relevant details and evidence related to the grievance.
+4. **Analyzing and Solving the Cause of Grievances:** The HR team analyzes the collected information to resolve the issue.
+5. **Prepare the Report and Submit to Management:** The HR representative prepares a grievance report within 2 days of complaint submission and forwards it to the next escalation officer or cell.
+6. **Implementation and Follow-up:** The resolution is implemented, and follow-up actions are taken to ensure proper redressal.
+7. **Escalation Process:** If a satisfactory resolution is not achieved at the initial level, the grievance is forwarded to the Director or Managing Director for further action.
+INFO:root:Session ID: 1234, User Query: list down  Travel Rules, Model: gpt-4.1-nano
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+INFO:root:Session ID: 1234, AI Response: The travel rules are outlined as follows:
+
+### Domestic Travel
+- **Travel Approval Authority:**
+  - National Sales Manager/Zonal Sales Managers are authorized to approve travel for all marketing employees, whether by airways or roadways.
+  - The approval must be obtained from the respective National Sales Manager/Zonal Sales Manager of the employee's location.
+- **Hotels:**
+  - All hotel bookings will be managed by the Administration Department.
+  - In case of emergency, employees may self-book hotels, and reimbursement will be provided.
+  - Hotels are categorized into A+ City, A City, B City, and C City, as detailed in the Travel Policy.
+- **Room Sharing:**
+  - Employees of the same gender traveling to the same location will share twin rooms.
+- **Hotels on Outskirts:**
+  - If the hotel is located on the outskirts of the city, employees must inform the Administration Department.
+  - The employee needs to obtain special approval for the accommodation expenses.
+- **Reimbursement:**
+  - All travel-related expenses must be submitted with reimbursement claims within three working days after travel concludes.
+INFO:root:Session ID: 0b99f723-eef6-46db-a527-ed201dbd8040, User Query: what are Meal and Conveyance Charges  rules?, Model: gpt-4.1-nano
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 0b99f723-eef6-46db-a527-ed201dbd8040, AI Response: The rules for Meal and Conveyance Charges are as follows:
+
+**Meal Charges:**
+- Employees working late or on holidays/weekends to complete assignments are eligible for a meal reimbursement.
+- The reimbursement amount is Rs 100 per meal.
+
+**Conveyance Charges:**
+- Employees working late or on holidays/weekends to complete assignments can claim conveyance reimbursement.
+- Reimbursement covers travel from residence to the office or vice versa.
+- Employees can hire services like OLA or UBER and submit bills to the Administration Department for processing.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: 57ee7a4d-1a95-434d-95bf-726b907866c5, User Query: give leaves taken by rajesh kar, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 57ee7a4d-1a95-434d-95bf-726b907866c5, AI Response: Based on the provided data, it appears that the records are incomplete or the table for "Rajesh Kar" is not fully visible. However, from the visible data under "Rajesh Kar," no specific leave days are marked with an "L" in the grid.
+
+If any leave information for Rajesh Kar was present in the part of the document that wasn't included, it isn't shown here. If you need accurate leave records, you might need to check the original data source or document where this information is fully available.
+INFO:root:Session ID: 57ee7a4d-1a95-434d-95bf-726b907866c5, User Query: leave taken by rupsa sen, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 57ee7a4d-1a95-434d-95bf-726b907866c5, AI Response: The provided context does not include detailed information or leave data for "Rupsa Sen." If you are seeking to find out the leave taken by Rupsa Sen, you might need to consult the complete and original dataset or documentation where such records are maintained. Without the relevant data in the context given, I am unable to specify the leave taken by Rupsa Sen.
+INFO:root:Session ID: 57ee7a4d-1a95-434d-95bf-726b907866c5, User Query: give Employee Leave Details for 2025 (April - June), Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 57ee7a4d-1a95-434d-95bf-726b907866c5, AI Response: Based on the provided context, here are the details for employee leaves from April to June 2025:
+
+### June 2025
+- **Dweekends/Holidays:** Every Saturday and Sunday, plus other highlighted holidays.
+
+#### Individual Employee Leave Details for June:
+- **Sandeep Bera:** Took leave on all Saturdays and Sundays, plus additional unspecified weekdays.
+- **Rajesh Kar:** No specific leaves mentioned.
+- **Gourab Saha:** Took leave on June 4th, 5th, and from the 6th to 9th.
+- **Dipankar Mondal:** No specific leaves mentioned.
+- **Madhurima:** Took leave on June 24th.
+
+### April and May 2025:
+Unfortunately, the given context hasn't provided the specific details for April and May. For accurate records, the complete data source that includes details for those months would need to be consulted.
+
+Please refer back to the complete document or data source to ensure comprehensive coverage of this period, as well as exact reasons, dates, and durations of leaves if needed.
+INFO:root:Session ID: 57ee7a4d-1a95-434d-95bf-726b907866c5, User Query: when you open a ticket,  what you do?, Model: gpt-4o
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 57ee7a4d-1a95-434d-95bf-726b907866c5, AI Response: When you open a ticket, typically in a customer service or IT support context, you are initiating a request for assistance or reporting a problem that needs to be addressed. Here’s a basic process of how opening a ticket usually works:
+
+1. **Access the Ticketing System:** Log into the system that your organization uses for managing tickets. This could be software like Jira, Zendesk, ServiceNow, or any other ticket management system.
+
+2. **Create a New Ticket:** Look for an option to create or open a new ticket. This is often clearly labeled within the interface.
+
+3. **Enter Ticket Details:**
+   - **Title/Summary:** Provide a concise, descriptive title that summarizes the issue or request.
+   - **Description:** Add a detailed description of the issue. Include necessary background information, the impact of the problem, steps to replicate the issue if applicable, and any troubleshooting steps already taken.
+   - **Priority Level:** Assign a priority or severity level to indicate the urgency or impact of the issue.
+   - **Attachments:** Attach relevant files or screenshots that could help in diagnosing or understanding the issue.
+
+4. **Specify the Category or Department:** If required, select the most relevant category or department to ensure the ticket is directed to the appropriate team.
+
+5. **Submit the Ticket:** Once all fields are completed, submit the ticket for processing.
+
+6. **Receive Confirmation:** After submission, you should receive a confirmation message or email with the ticket ID. This ID will be used for tracking the status of the request.
+
+7. **Follow-Up:** Based on the system’s workflow, updates will be provided as the ticket progresses. You can follow up or add more information if needed through the ticket interface.
+
+Using this procedure ensures that the issue or request is clearly documented and can be efficiently handled by the support team.
+INFO:backoff:Backing off send_request(...) for 0.9s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:root:Session ID: 57ee7a4d-1a95-434d-95bf-726b907866c5, User Query: give leave taken by rupsa sen, Model: gpt-4.1-nano
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 57ee7a4d-1a95-434d-95bf-726b907866c5, AI Response: The provided data does not include specific information about the leave taken by Rupsa Sen. If you can provide a complete table or additional details, I can help identify the leaves taken by Rupsa Sen.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
