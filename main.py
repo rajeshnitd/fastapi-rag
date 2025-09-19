@@ -1,4 +1,5 @@
 from fastapi import FastAPI, File, UploadFile, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic_models import QueryInput, QueryResponse, DocumentInfo, DeleteFileRequest
 from langchain_utils import get_rag_chain
 from db_utils import insert_application_logs, get_chat_history, get_all_documents, insert_document_record, delete_document_record
@@ -13,6 +14,13 @@ logging.basicConfig(filename='app.log', level=logging.INFO)
 
 # Initialize FastAPI app
 app = FastAPI()
+app.add_middleware(
+        CORSMiddleware,
+        allow_origins=["*"],  # List of allowed origins
+        allow_credentials=True,  # Allow cookies to be sent with cross-origin requests
+        allow_methods=["*"],  # Allow all HTTP methods (GET, POST, PUT, DELETE, etc.)
+        allow_headers=["*"],  # Allow all headers in cross-origin requests
+    )
 
 #***********************CHAT ENDPOINT**************************************************************************************
 @app.post("/chat", response_model=QueryResponse)
